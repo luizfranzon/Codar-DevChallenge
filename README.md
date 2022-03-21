@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/lorenagmontes/">Criadora do Desafio</a>
   </p>
 </p>
-
+<br>
 ## Projeto Finalizado :)
 
 <a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html"><h2>Abrir no github pages</h2></a>
