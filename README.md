@@ -16,5 +16,8 @@
   </p>
 </p>
 
+## Projeto Finalizado :)
+
+<a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html">Abrir no github pages.</a>
 <img src="meu_projeto/images/site_terminado.png">
 
