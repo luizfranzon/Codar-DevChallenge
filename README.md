@@ -12,7 +12,9 @@
     <br />
     <a href="https://github.com/Lorenalgm/codar">Desafio</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
+    <a href="https://www.linkedin.com/in/lorenagmontes/">Criadora do Desafio</a>
   </p>
 </p>
+
+<img src="meu_projeto/images/site_terminado.png">
 
