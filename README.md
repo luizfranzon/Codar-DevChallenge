@@ -4,7 +4,7 @@ O <a href="https://www.devchallenge.com.br/">DevChallenge</a> é um site onde vo
 O <a href="https://www.devchallenge.com.br/challenges/5ed47992adee277fae224a0b/details">desafio Codar</a>, é um página de uma empresa que desenvolve Websites.
 
 ### Falta:
-- [] Deixar a página responsiva
+- [ ] Deixar a página responsiva
 
 
 <br>
