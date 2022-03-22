@@ -8,6 +8,6 @@ O <a href="https://www.devchallenge.com.br/challenges/5ed47992adee277fae224a0b/d
 
 <br>
 
-<p align="center"><strong>Projeto Finalizado:</strong> <a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html">abrir no github pages</a></p>
+<p align="center"><strong>Projeto:</strong> <a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html">abrir no github pages</a></p>
 <p align="center"><img height="800" src="meu_projeto/images/site_terminado.png"></p>
 
