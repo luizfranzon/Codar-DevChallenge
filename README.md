@@ -1,25 +1,13 @@
-<br />
-<p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://i.ibb.co/stqTkc6/video-call.png" alt="Logo" width="250" height="200">
-  </a>
+# Desafio: Codar - DevChallenge
+O <a href="https://www.devchallenge.com.br/">DevChallenge</a> é um site onde você pode visualizar layout e propostas de projetos para você aprimorar suas habilidades. Podendo escolher tanto Front-end, Back-end ou ambos, além de filtrar a linguagem que deseja treinar. 
 
-  <h3 align="center">Codar.</h3>
+O <a href="https://www.devchallenge.com.br/challenges/5ed47992adee277fae224a0b/details">desafio Codar</a>, é um página de uma empresa que desenvolve Websites.
 
-  <p align="center">
-    Site de uma empresa que desenvolve sites
-       <br />
-    <br />
-    <a href="https://github.com/Lorenalgm/codar">Desafio</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Criadora do Desafio</a>
-  </p>
-</p>
+
+
 
 <br>
 
-## Projeto Finalizado :)
-
-<a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html"><h2>Abrir no github pages</h2></a>
-<img src="meu_projeto/images/site_terminado.png">
+<p align="center"><strong>Projeto Finalizado:</strong> <a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html">abrir no github pages</a></p>
+<p align="center"><img height="800" src="meu_projeto/images/site_terminado.png"></p>
 
